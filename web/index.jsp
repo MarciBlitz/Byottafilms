@@ -12,6 +12,7 @@
         <title>ByottaFilms</title>
     </head>
     <body>
-        <h1>Estamos trabajando para hacer la mejor web de recomendación de peliculas EVER!! Probando bando bando</h1>
+        
+        <h1>Estamos trabajando para hacer la mejor web de recomendación de peliculas EVER!!</h1>
     </body>
 </html>
